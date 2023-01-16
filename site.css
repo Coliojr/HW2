@@ -2,4 +2,38 @@
     margin: 50px;
     font-family: Helvetica, sans-serif;
     font-size: 150%;
+    background-image: url("images/clouds.jpg");
+    background-size: cover;
+}
+#div1 {
+    background-color: lightblue;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    width: 500px;
+    border: solid 10px lightgrey;
+    border-radius: 20px;
+}
+
+#button1 {
+    background-color: lightgrey;
+    color: black;
+    border: none;
+    font-size: 30px;
+    border-radius: 12px;
+    font-family: 'Alegreya', serif;
+}
+
+input[type=number] {
+    width: 20%;
+    border: 5px solid lightgrey;
+    font-family: 'Alegreya', serif;
+}
+
+h2 {
+    font-family: 'Alegreya', serif;
+}
+
+p {
+    font-family: 'Alegreya', serif;
 }
